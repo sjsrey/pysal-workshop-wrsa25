@@ -1,8 +1,8 @@
 # workshop-pysal-wrsa25
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sjsrey/workshop-pysal-wrsa25)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sjsrey/pysal-workshop-wrsa25)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/workshop-pysal-wrsa25/main?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pysal-workshop-wrsa/main?urlpath=lab)
 
 Spatial Analysis and Econometrics with PySAL
 
